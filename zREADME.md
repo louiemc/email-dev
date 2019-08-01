@@ -17,3 +17,12 @@ An email to confirm the purchase made by the subscriber. This email should be tr
 
 **(For ecommerce) Cart Abandonment Email:** 
 Owing to many reasons, a well-nurtured subscriber may abandon their purchase mid-way. It is toxic to your business and this email will try to draw such abandoners back and re-unites them with their carts. A must-have email for ecommerce emails.
+
+
+# My Thoughts
+### Welcome Email: 2000's Theme
+This one was done without much thought. Really it was done on the fly with the intent to look as ugly as possible.
+- I'm happy that I achieved the title 'Disgustingly Unappealing'
+
+### Welcome Email: Modern, Pre-planned, Aesthetically Pleasing
+This one will be completely thought out! that is the plant

@@ -23,6 +23,7 @@ Owing to many reasons, a well-nurtured subscriber may abandon their purchase mid
 ### Welcome Email: 2000's Theme
 This one was done without much thought. Really it was done on the fly with the intent to look as ugly as possible.
 - I'm happy that I achieved the title 'Disgustingly Unappealing'
+![welcome 2000s email group](https://media.giphy.com/media/RkWebjHJZ0uv9vX2zD/giphy.gif)
 
 ### Welcome Email: Modern, Pre-planned, Aesthetically Pleasing
 This one will be completely thought out! that is the plant

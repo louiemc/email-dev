@@ -26,4 +26,6 @@ This one was done without much thought. Really it was done on the fly with the i
 ![welcome 2000s email group](https://media.giphy.com/media/RkWebjHJZ0uv9vX2zD/giphy.gif)
 
 ### Welcome Email: Modern, Pre-planned, Aesthetically Pleasing
-This one will be completely thought out! that is the plan!
+Followed the Medium 'Welcome' email
+- I'm happy that I achieved a nice clean look
+![welcome2 medium welcome email](https://media.giphy.com/media/WOBohwb3OxvEXRWeqS/giphy.gif)

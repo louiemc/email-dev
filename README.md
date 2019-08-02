@@ -27,5 +27,5 @@ This one was done without much thought. Really it was done on the fly with the i
 
 ### Welcome Email: Modern, Pre-planned, Aesthetically Pleasing
 Followed the Medium 'Welcome' email
-- I'm happy that I achieved a nice clean look
+- I'm happy that I achieved a nice clean look. I used the Medium 'Welcome' email as a reference; articles are not attached. I used stock photos to represent the article thumbnail.
 ![welcome2 medium welcome email](https://media.giphy.com/media/WOBohwb3OxvEXRWeqS/giphy.gif)

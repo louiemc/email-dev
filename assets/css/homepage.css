@@ -1,0 +1,41 @@
+nav {
+  width: 100%;
+  background: #ccc;
+  z-index: 1000;
+}
+
+#brand {
+  font-size: 50px;
+  font-weight: bold;
+  float: left;
+  margin: 15px 20px;
+  color: aqua;
+  font-family: fantasy;
+}
+nav ul {
+  float: left;
+}
+
+.tabs-ul {
+  float: right;
+  margin : 10px 20px;
+}
+
+.jumbotron {
+  background-image: url("https://images.unsplash.com/photo-1444927714506-8492d94b4e3d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.display-4 {
+  margin-top: 3.5em;
+  margin-bottom: 1.5em;
+  color: #fff;
+  text-align: center;
+}
+.lead {
+  color: #fff;
+  text-align: center;
+  padding: 0 15em;
+}
